@@ -75,4 +75,4 @@ echo "Done!"
 echo "[*] Starting Firefox to DVWA\nUserName: admin\nPassword: password"
 firefox http://127.0.0.1/login.php &> /dev/null &
 echo "Done!"
-echo "[\033[1;32m*\033[1;37m] DVWA Install Finished!\n"i
+echo "[\033[1;32m*\033[1;37m] DVWA Install Finished!\s"
