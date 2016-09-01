@@ -1,3 +1,4 @@
+#!/bin/bash
 o "###########################################"
 echo "# Damn Vulnerable Web App Installer Script #"
 echo "#          For Kali Linux                  #"
