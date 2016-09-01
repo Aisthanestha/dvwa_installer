@@ -1,5 +1,6 @@
 #!/bin/bash
-o "###########################################"
+
+echo "###########################################"
 echo "# Damn Vulnerable Web App Installer Script #"
 echo "#          For Kali Linux                  #"
 echo "############################################"
